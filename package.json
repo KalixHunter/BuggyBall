@@ -1,0 +1,24 @@
+{
+  "name": "BuggyBall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalixHunter/BuggyBall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://kalixhunter.github.io/Buggyball",
+  "dependencies": {
+    "gh-pages":"^3.2.3"
+  },
+  "bugs": {
+    "url": "https://github.com/KalixHunter/BuggyBall/issues"
+  },
+  "homepage": "https://github.com/KalixHunter/BuggyBall#readme"
+}
